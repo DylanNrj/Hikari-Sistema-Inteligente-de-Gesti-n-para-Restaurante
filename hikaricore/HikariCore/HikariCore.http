@@ -1,0 +1,6 @@
+@HikariCore_HostAddress = http://localhost:5095
+
+GET {{HikariCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
